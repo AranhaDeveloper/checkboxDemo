@@ -8,7 +8,6 @@ class EntradaCheckbox extends StatefulWidget {
 class _EntradaCheckboxState extends State<EntradaCheckbox> {
   bool _comidaBrasileira = false;
   bool _comidaMexicana = true;
-  bool _teste = false;
 
   @override
   Widget build(BuildContext context) {
