@@ -52,17 +52,6 @@ class _EntradaCheckboxState extends State<EntradaCheckbox> {
                   ),
                 ),
                 onPressed: null)
-
-            /*Text("Comida Brasileira"),
-            Checkbox(
-              value: _estaSelecionado,
-              onChanged: (bool valor) {
-                setState(() {
-                  _estaSelecionado = valor;
-                });
-                //print("Checkbox:" + valor.toString());
-              },
-            )*/
           ],
         ),
       ),
